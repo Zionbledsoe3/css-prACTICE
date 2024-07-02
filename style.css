@@ -19,7 +19,7 @@ h1,h2,h3{
 }
 
 #header{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0);
     color: white;
     text-align: center;
     padding: 10px;
